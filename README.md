@@ -6,7 +6,7 @@ Where Projects Unite: ProjectFusion - One Hub, Infinite Possibilities
 
 Create your first Pull Request 🔥(PR) and help contributing to open-source and help everyone with this repository.
 
-Before Contributing to the Repository, Please Subscribe my channel and help me reach 1K Subscribers. Subscribe here- https://www.youtube.com/channel/UCOykz3Ssp3Q1SHPG8Mqj7PA
+Before Contributing to the Repository, Please FOLLOW ME on Linkedin. Connect here here- https://www.linkedin.com/in/sainik-khaddar-2295a31b6/
 
 FOLLOWING WILL TELL YOU HOW TO CONTRIBUTE TO HACKTOBERFEST
 
