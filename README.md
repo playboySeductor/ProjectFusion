@@ -14,10 +14,10 @@ FOLLOWING WILL TELL YOU HOW TO CONTRIBUTE TO HACKTOBERFEST
 # 👍 Awesome! How and What can I Contribute? 
 It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
 1. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/ProjectFusion/ProjectFusion/fork).
-2. Create a new file and **add** a new Program code(like C++ program to implement Binary Search, etc.) in any programming language like C++, Java, Python, etc. (Note: Program must not be exist already in this repository)
+2. Go to index.html file and choose the domain where you want to add your project. Also add your picture+ name + social links in contribution section of website
 4. After adding the code, Commit your changes.
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
-8. Star this repository!
+8. STAR this repository!
 
 ### Please show some love 😄 
 <a href="https://github.com/playboySeductor" aria-label="Follow @playboySeductor on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@playboySeductor-green?style=for-the-badge"  />
